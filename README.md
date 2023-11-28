@@ -1,2 +1,2 @@
 # Module_10_Unsupervised_Learning
-Assignment for module 10
+All code for the Assignment from module 10 is located in the crypto_investments.ipynb file
